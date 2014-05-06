@@ -1,0 +1,1 @@
+Lite framework clone of Active Record
